@@ -1,10 +1,10 @@
 {
-      "latest": "8.2.14",
-      "build": "8.2.14.149",
-      "minimum": "8.0.0",
-      "release_date": "2026-11-19",
-      "release_notes": "포트 기본 용도·확인 우선순위·사유, 로컬/외부 구분과 주의·차단 등록 색상 추가",
-      "release_notes_en": "Added conventional port descriptions, review priorities/reasons, local vs remote scope and themed caution/block colors",
-      "download_url": "",
-      "force_update": false
+  "latest": "8.2.17",
+  "build": "8.2.17.152",
+  "minimum": "8.0.0",
+  "release_date": "2026-11-20",
+  "release_notes": "GitHub 버전 안내, OneDrive 웹 다운로드 및 서명 검증 후 선택 설치. 6개월 사용 정책 유지.",
+  "release_notes_en": "See the signed release notes.",
+  "download_url": "https://metanet-my.sharepoint.com/personal/guten_metanet_co_kr/Documents/PrivacyScanner/PrivacyScan_8.2.17.152.zip?download=1",
+  "force_update": false
 }
